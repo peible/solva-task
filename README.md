@@ -6,4 +6,4 @@ cd devops_test
 touch readme.txt
 pwd
 ```
-[linux](/images/linux.png)
+![linux](/images/linux.png)
